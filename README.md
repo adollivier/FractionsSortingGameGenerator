@@ -14,15 +14,15 @@ Fonctionnalités
 - **Personnalisation des grilles :** L'utilisateur peut spécifier le nombre de grilles qu'il souhaite générer.
   
 - **Enregistrement au format PDF :** Chaque grille générée est enregistrée au format PDF dans un dossier choisi par 
-- l'utilisateur.
+l'utilisateur.
 
 - **Paramètres des fractions :** L'utilisateur peut définir la valeur maximale que peuvent prendre les fractions ainsi 
-- que la valeur maximale du dénominateur. La valeur maximale du numérateur est automatiquement calculée en fonction de 
-- ces deux paramètres, garantissant que le numérateur est égal à la valeur maximale de l'intervalle multipliée par le 
-- dénominateur.
+que la valeur maximale du dénominateur. La valeur maximale du numérateur est automatiquement calculée en fonction de 
+ces deux paramètres, garantissant que le numérateur est égal à la valeur maximale de l'intervalle multipliée par le 
+dénominateur.
 
 - **Contraintes d'entrée :** Aucun chiffre négatif ne peut être entré par l'utilisateur, assurant que les fractions 
-- générées sont toujours positives.
+générées sont toujours positives.
 
 
 Utilisation
