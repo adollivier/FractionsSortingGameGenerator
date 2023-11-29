@@ -30,9 +30,9 @@ Utilisation
 - **Langage :** Assurez-vous d'avoir au minimum Python 3.7 ou version plus récente.
 
 - **Cloner le dépôt :** git clone https://github.com/adollivier/FractionsSortingGameGenerator.git
-- cd ../FractionsSortingGameGenerator
+- **Se rendre dans le fichier :** cd FractionsSortingGameGenerator
 - **Installer les dépendances :** Dans le dossier cloné : pip install -r requirements.txt
-- - **Exécuter le programme :** python fractions_game_generator.py
+- **Exécuter le programme :** python main.py
 
 
 Contribuer
