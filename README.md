@@ -24,6 +24,11 @@ Fonctionnalités
 - **Contraintes d'entrée :** Aucun chiffre négatif ne peut être entré par l'utilisateur, assurant que les fractions 
 - générées sont toujours positives.
 
+
+Utilisation
+-----------
+- **Cloner le dépôt :** git clone https://github.com/adollivier/FractionsSortingGameGenerator.git
+
 - **Langage :** Assurez-vous d'avoir au minimum Python 3.7 ou version plus récente.
 
 
@@ -31,3 +36,7 @@ Contribuer
 -----------
 Ce projet est open source. Vous êtes invité à l'utiliser, le modifier et contribuer à son amélioration selon vos besoins.
 
+
+Licence
+-----------
+Ce projet est sous licence MIT. Voir le fichier LICENCE.txt pour plus de détails.
